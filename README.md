@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there, I am Selim 👋
+
+I am a highly experienced Solution Architect and Lead Software Engineer with over 10 years of experience in developing enterprise-level solutions, particularly in the domains of banking and e-commerce. I have a strong passion for software development and have extensively worked on web application projects using the .NET framework, C#, and other related technologies. I am well-versed in distributed systems, service-oriented applications, and enterprise-level applications.
+
+🗒️ Find me at <a href="https://www.linkedin.com/in/yildizseli/" target="_blank">LinkedIn</a> <br />
+✍️ I regularly write articles on various topics related to software development and technology on <a href="https://medium.com/@selimyildiz91" target="_blank">Medium</a> <br/>
 
 <!--
-**yildizseli/yildizseli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
